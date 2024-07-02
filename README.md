@@ -14,6 +14,4 @@ Kotlin ve Flutter ile mobil uygulamalar geliştirmekteyim. Özellikle kullanıc�
 - **PyTorch:** Derin öğrenme ve yapay zeka araştırmaları için.
 - **Flutter:** Mobil uygulama geliştirme ve kullanıcı arayüzü tasarımı için.
 
-## İletişim
-LinkedIn: [Hamza Gündüz](LinkedIn link)
-Twitter: [@hamzagunduz](Twitter link)
+
