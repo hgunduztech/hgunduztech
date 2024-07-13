@@ -1,6 +1,6 @@
 Merhaba, Ben Hamza! 👋
 Hakkımda
-Merhaba! Ben Hamza Gündüz. Kotlin ve Flutter geliştiricisiyim. Aynı zamanda yapay zeka sistemleri üzerinde çalışıyor ve bu alanda derinlemesine araştırmalar yapıyorum. Bilgisayar mühendisliği öğrencisi olarak hem teorik bilgilerimi geliştiriyor hem de pratik projeler üzerinde çalışıyorum.
+Merhaba! Ben Hamza Gündüz. Kotlin ve Flutter geliştiricisiyim. Aynı zamanda yapay zeka sistemleri üzerinde çalışıyor ve bu alanda derinlemesine araştırmalar yapıyorum. 
 
 Yapay Zeka
 Yapay zeka alanında özellikle TensorFlow 🧠 ve PyTorch 🌌 gibi kütüphaneleri kullanarak derin öğrenme modelleri geliştiriyorum. Görüntü sınıflandırma, doğal dil işleme ve öneri sistemleri üzerine odaklanıyorum.
