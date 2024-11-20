@@ -1,19 +1,3 @@
-github profil markdown jeneratör logosu
-GitHub Profili README Jeneratör
-Bu repo yıldız
-21729
-Çatal GitHub üzerinde
-6909
-
-düzenlemeye geri dön
-
-Kopyala-işaretle
-
-markdown'u indir
-
-yedeklemeyi indir
-
-önizleme
 <h1 hizalama = "merkez" > Hi 👋, ben HAMZA GÜNDÜZ < / h1 >
 <h3 align = "center" > Türkiye'den tutkulu bir ön uç geliştiricisi < / h3 >
 
@@ -36,30 +20,3 @@ yedeklemeyi indir
 <p > & nbsp; < img hizalama = "merkez" src = "https://github-readme-stats.vercel.app/api?username=hgunduztech&show_icons=true&locale=en" alt =" hgunduztech "/ >< / p >
 
 <p >< img hizalama = "merkez" src = "https://github-readme-streak-stats.herokuapp.com/?user=hgunduztech&" alt =" hgunduztech "/ >< / p >
-
-Destek 🙏
-GitHub Profilinizi oluşturmak için aracı kullanıyor ve bundan memnun musunuz?
-Nazik desteğiniz, bunun gibi açık kaynaklı araçları başkaları için ücretsiz tutar.
-tweet github profil okuma jeneratörü
-Bu aracı kullanarak dünyaya nasıl hissettiğinizi bildirin. Twitter'da başkalarıyla paylaşın.
-İpucu💰
-Rahuldkjain için ko-fi satın al
-Bana bir ko-fi al
-Paypal ile rahuldkjain bağışlayın
-Rahuldkjain A Coffee Satın Alın
-Bana bir kahve al
-github profil markdown jeneratör logosu
-GitHub ProfiliREADME Jeneratör
-Sayfalar
-Eklentiler
-Destek
-Hakkında
-Daha
-Github
-bültenler
-Sorunlar
-İstekleri Çek
-Topluluğa Katıl
-Topluluğun uyuşmazlığı
-Hindistan'da geliştirildi🇮🇳
-Bana bir kahve al
