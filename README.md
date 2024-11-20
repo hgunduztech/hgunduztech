@@ -27,25 +27,16 @@
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
-<h3 align="center">AI & Data Science</h3>
+<h3 align="center">AI & Deep Learning</h3>
 <p align="center">
   <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
   <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://www.nvidia.com/en-us/deep-learning-ai/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Nvidia_logo.svg/512px-Nvidia_logo.svg.png" alt="NVIDIA" width="40" height="40"/></a>
+  <a href="https://www.opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
+  <a href="https://www.pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
   <a href="https://nltk.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nltk/nltk-original.svg" alt="NLTK" width="40" height="40"/></a>
-</p>
-
-<h2 align="center">👽 GitHub Stats</h2>
-<p align="center">
-  <a href="https://github.com/hamzagunduz">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzagunduz&theme=github-dark" alt="Hamza's Github Streak Stats" />
-  </a>
-  <br><br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hamzagunduz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzagunduz&layout=compact&langs_count=16&theme=react"/>
 </p>
 
 <h2 align="center">💻 Developer Tools</h2>
@@ -59,13 +50,13 @@
 
 <h2 align="center">💬 Connect with Me</h2>
 <p align="center">
-  <a href="https://twitter.com/hamzagunduz" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/hamzagunduz/" target="_blank">
+  <a href="https://www.linkedin.com/in/hamza-gündüz/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" />
   </a>
-  <a href="https://medium.com/@hamzagunduz" target="_blank">
+  <a href="https://medium.com/@hmzgnc2147" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/hamzagndz" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Kaggle_logo.svg"  height="30" width="40" />
   </a>
 </p>
