@@ -14,7 +14,19 @@
 - 🔍 I focus on **Machine Learning** and **Deep Learning** using TensorFlow, PyTorch, and more.<br>
 - 🎓 I am passionate about **data analysis**, **image processing**, and **optimization**.
 
+<h2 align="center">💻 Programming Languages</h2>
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+</p>
+
+
+
 <h2 align="center">🔓 Stack</h2>
+
 
 <h3 align="center">Mobile Development</h3>
 <p align="center">
