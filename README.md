@@ -23,10 +23,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
 </p>
 
-
-
 <h2 align="center">🔓 Stack</h2>
-
 
 <h3 align="center">Mobile Development</h3>
 <p align="center">
@@ -46,7 +43,6 @@
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
 </p>
 
-
 <h3 align="center">Machine Learning & AI</h3>
 <p align="center">
   <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
@@ -56,40 +52,97 @@
   <a href="https://www.pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
 </p>
 
-<h3 align="center">Data Science & Visualization</h3>
+<h2 align="center">📊 Data Science & Visualization</h2>
 <p align="center">
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
+  <a href="https://plotly.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/></a>
+  <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
+  <a href="https://www.jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/></a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
+
+<h3 align="center">Projects & Contributions</h3>
+<p align="center">
+  <a href="https://github.com/hamzagunduz/data-science-projects">
+    <img src="https://img.shields.io/badge/Explore%20My%20Data%20Science%20Projects-00D1B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Data Science Projects"/>
+  </a>
+  <a href="https://www.kaggle.com/hamzagunduz">
+    <img src="https://img.shields.io/badge/Explore%20My%20Kaggle%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Explore My Kaggle Profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-00A3E0?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
+
+<h3 align="center">Projects & Contributions</h3>
+<p align="center">
+  <a href="https://github.com/hamzagunduz/data-science-projects">
+    <img src="https://img.shields.io/badge/Explore%20My%20Data%20Science%20Projects-00D1B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Data Science Projects"/>
+  </a>
+  <a href="https://www.kaggle.com/hamzagunduz">
+    <img src="https://img.shields.io/badge/Explore%20My%20Kaggle%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Explore My Kaggle Profile"/>
+  </a>
+  <a href="https://www.tableau.com/">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Tableau%20Dashboard-FF7F00?style=for-the-badge&logo=tableau&logoColor=white" alt="Check Out My Tableau Dashboard"/>
+  </a>
+</p>
+
+
+<h2 align="center">📌 Technologies I Work With</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MatLab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</div>
 
 <h2 align="center">👽 GitHub Stats 👽</h2>
 <br>
 <p align="center">
-<a href="https://github.com/hamzagunduz">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzagunduz&theme=github-dark" alt="Hamza's Github Streak Stats" /><br><br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hamzagunduz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzagunduz&layout=compact&langs_count=16&theme=react"/>
+  <a href="https://github.com/hamzagunduz">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzagunduz&theme=github-dark" alt="Hamza's Github Streak Stats" /><br><br>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hamzagunduz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzagunduz&layout=compact&langs_count=16&theme=react"/>
+  </a>
 </p>
 
-<h2 align="center">👩‍💻 Developer Tools</h2>
-
-<p align="center"> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179799645-5dbf1f03-2ab8-4899-a7cf-d1bfeb11080e.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179799959-54a24474-b0ef-4e89-8584-0181033fbdeb.png" alt="python" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179800198-f2d28bc9-bd6b-465c-bd34-53f271eab436.png" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179800518-6f412fad-5507-4e19-ba8b-0e2ae6625de8.png" alt="scikit_learn" width="40" height="40"/> </a></p>
-
-
 <h2 align="center">💬 Connect with me</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza-gündüz/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@hmzgnc2147" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  height="30" width="40" />
+  <a href="https://www.facebook.com/hamzagunduz3" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-  <a href="https://www.kaggle.com/hamzagndz" target="_blank">
+  <a href="mailto:hamzagunduz3@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
   </a>
 </p>
