@@ -123,26 +123,3 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/MatLab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </div>
-
-<h2 align="center">👽 GitHub Stats 👽</h2>
-<br>
-<p align="center">
-  <a href="https://github.com/hamzagunduz">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzagunduz&theme=github-dark" alt="Hamza's Github Streak Stats" /><br><br>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hamzagunduz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzagunduz&layout=compact&langs_count=16&theme=react"/>
-  </a>
-</p>
-
-<h2 align="center">💬 Connect with me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamza-gündüz/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/hamzagunduz3" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="mailto:hamzagunduz3@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
-  </a>
-</p>
